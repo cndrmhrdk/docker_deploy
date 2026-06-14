@@ -1,0 +1,11 @@
+# Dependency Node.js (Wajib diabaikan karena ukurannya raksasa dan bisa di-install ulang)
+node_modules/
+# File konfigurasi yang biasanya berisi password/rahasia (Sangat penting biar gak bocor!)
+.env
+# File log dari npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# File sampah bawaan Sistem Operasi (Mac/Windows)
+.DS_Store
+Thumbs.db
